@@ -1,2 +1,19 @@
 # AI-ML-Tutorials
- 
+
+Welcome to **AI-ML-Tutorials**! This repository is dedicated to sharing tutorials on AI, Machine Learning, and Statistics. Mainly written on jupyter notebooks.
+
+## Contents
+
+- [Project 1: Create a single-neuron, single-layer Neural Network using Numpy](#project-1-create-a-single-neuron-single-layer-neural-network-using-numpy)
+
+## Project 1: Create a single-neuron, single-layer Neural Network using Numpy
+
+How to create a single-layer, single-neuron Neural Network using Numpy, get a clear understanding of the basic workings of neural networks and explore how different parameters affect its training.
+
+You'll find a jupyter notebook in the `single_neuron_mlp` folder.
+
+## Contact
+
+If you have any questions or feedback, please reach out to me at [vannairea@gmail.com](mailto:vannairea@gmail.com).
+
+Happy Learning!
